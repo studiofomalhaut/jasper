@@ -1,6 +1,6 @@
 # jasper
-Start-up website (practice)
-Built with Bootstrap 4 and Node.js
+Start-up website template (practice)
+Built with Bootstrap 4, HTML, CSS, JavaScript and Node.js
 
 
 
